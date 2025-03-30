@@ -21,13 +21,6 @@
 
 <br>
 
-<div align="center">
-  <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=brunogmadeira&theme=neon-dark&hide_border=true&background=DD272700" />
-</div>
-
-<br>
-
 <div align="center"> 
   <a href="https://instagram.com/gmbruno_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:girardi791@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
